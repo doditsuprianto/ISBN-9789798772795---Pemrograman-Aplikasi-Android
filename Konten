@@ -1,0 +1,33 @@
+Ada Apa dengan Aplikasi Android?
+Pasar perangkat bergerak berbasis Android (smartphone maupun tablet) semakin besar. Kebutuhan terhadap aplikasi program android pun meningkat. Harganya yang murah (atau bahkan gratis) membuat banyak orang meyakini Android adalah masa depan!
+
+Kenapa Buku ini Diperlukan?
+Buku ini berisi penjelasan-penjelasan dasar bagaimana memprogram aplikasi dalam lingkungan sistem operasi Android. Jangan hanya merasa puas menggunakan aplikasi android yang telah ada. Anda pun dapat membuat aplikasi sendiri. Selain mendatangkan kepuasan, aplikasi android buatan Anda juga dapat mendatangkan keuntungan finansial.
+
+Dalam buku ini tersedia CD software-software pendukung. Materi buku ini, antara lain:
+
+software pendukung pengembangan aplikasi android
+project android sederhana
+menerapkan style & themes ke activity
+menyembunyikan judul activity
+menampilkan window dan progres dialog
+menghubungkan activity dengan intent
+menangkap hasil intent
+mengirim data dengan object intent
+memanggil aplikasi built-in dengan intent
+menampilkan notifikasi
+view dan viewgroup
+penyesuaian orientasi tampilan
+mengatur orientasi layar
+menangkap notifikasi ui
+merancang ui dengan view
+view image
+membuat menu
+menyimpan dan me-load user preferences
+pengelolaan data ke file
+pembuatan dan penggunaan database
+berbagi data dalam android
+penggunaan content provider
+pesan dan jaringan
+layanan lokasi
+publikasi aplikasi android
